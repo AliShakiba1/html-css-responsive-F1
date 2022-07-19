@@ -1,4 +1,4 @@
-# html-css-responsive-F1
+# html-css-responsive-Project 1 
 The first project Responsive and without bootstrap and making personal grid
 
 
@@ -9,4 +9,5 @@ Technology used:
 - System grid
 - flex box
 - Responsive layout without Bootstrap
+
 
